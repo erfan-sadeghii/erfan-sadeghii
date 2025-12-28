@@ -95,7 +95,7 @@ My goal is not only to make websites look good, but to **communicate the brand**
 ## 📄 Download Persian Resume (PDF)
 
 <p align="center">
-  <a href="https://github.com/erfan-sadeghii/erfan-sadeghii/raw/main/assets/resume/Resume-FA.pdf?download=1">
+  <a href="farsi-resume/v1-fa">
     <img src="https://img.shields.io/badge/Download%20Resume%20(FA)%20PDF-0B0014?style=for-the-badge&labelColor=2A004F&color=B517FF" />
   </a>
 </p>
