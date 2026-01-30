@@ -70,27 +70,7 @@ My goal is not only to make websites look good, but to **communicate the brand**
 
 ![divider](https://capsule-render.vercel.app/api?type=rect&height=12&color=0:0B0014,50:2A004F,100:B517FF&section=footer)
 
----
 
-## 🧩 Portfolio
-**A selection of my work:**
-
-- ⚖️ **Behh Vakil** — Corporate/service website for legal services, built to improve trust and clarity  
-  _Corporate / Service Website (Law)_  
-  https://behhvakil.ir/
-
-- 👗 **Ovita Store** — Fashion e-commerce UI with a smooth shopping flow and conversion-oriented layout  
-  _E-commerce (Fashion)_  
-  https://ovitastore.com/
-
-- 🛒 **Mobin Andishe** — E-commerce website with clean layout, fast browsing, and a simple purchase journey  
-  _E-commerce_  
-  https://mobinandishe.ir/
-
-![divider](https://capsule-render.vercel.app/api?type=rect&height=12&color=0:0B0014,50:2A004F,100:B517FF&section=footer)
-
-
----
 
 
 
